@@ -1,0 +1,82 @@
+[
+  {
+    "id": 100,
+    "firstName": "Marianne",
+    "lastName": "Halvorson",
+    "company": "Yundt - Padberg",
+    "jobTitle": "Product Accountability Producer",
+    "state": "South Dakota",
+    "isSiteAdmin": true,
+    "dateJoined": "1998-02-01T05:58:29.564Z"
+  },
+  {
+    "id": 90,
+    "firstName": "arian",
+    "lastName": "vorson",
+    "company": "Padberg",
+    "jobTitle": "Analyst",
+    "state": "Dakota",
+    "isSiteAdmin": false,
+    "dateJoined": "1992-08-08T05:58:29.564Z"
+  },
+  {
+    "id": 10,
+    "firstName": "vanii",
+    "lastName": "son",
+    "company": "Yundt - Padberg",
+    "jobTitle": "Accountability",
+    "state": "South",
+    "isSiteAdmin": true,
+    "dateJoined": "1994-04-17T05:58:29.564Z"
+  },
+  {
+    "id": 2812,
+    "firstName": "arjun prakash",
+    "lastName": "Bret",
+    "company": "Amazon",
+    "jobTitle": "Developer",
+    "state": "Hyderabad",
+    "isSiteAdmin": true,
+    "dateJoined": "2015-12-28T05:58:29.564Z"
+  },
+  {
+    "id": 1,
+    "firstName": "Patricia Lebsack",
+    "lastName": "Karianne",
+    "company": "TCS",
+    "jobTitle": "Manager",
+    "state": "Bangalore",
+    "isSiteAdmin": false,
+    "dateJoined": "2010-10-12T05:58:29.564Z"
+  },
+  {
+    "id": 32,
+    "firstName": "Chelsey Dietrich",
+    "lastName": "Kamren",
+    "company": "Amazon",
+    "jobTitle": "Coder",
+    "state": "Chennai",
+    "isSiteAdmin": false,
+    "dateJoined": "2015-06-20T05:58:29.564Z"
+  },
+  {
+    "id": 41,
+    "firstName": "Graham",
+    "lastName": "Leanne",
+    "company": "Adobe",
+    "jobTitle": "Specialist",
+    "state": "Kerala",
+    "isSiteAdmin": false,
+    "dateJoined": "2000-12-19T05:58:29.564Z"
+  },
+  {
+    "id": 141,
+    "firstName": "Mrs. Dennis Schulist",
+    "lastName": "Leopoldo_Corkery",
+    "company": "ZeroCater",
+    "jobTitle": "Senior Software",
+    "state": "Punjab",
+    "isSiteAdmin": true,
+    "dateJoined": "2016-02-01T05:58:29.564Z"
+  }
+]

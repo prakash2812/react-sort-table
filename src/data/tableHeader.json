@@ -1,0 +1,50 @@
+[
+  {
+    "name": "id",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "firstName",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "lastName",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "company",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "jobTitle",
+    "isSort": true,
+    "arrowUp": "02191;",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "state",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "SiteAdmin",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  },
+  {
+    "name": "dateJoined",
+    "isSort": true,
+    "arrowUp": "02191",
+    "arrowDown": "02193"
+  }
+]
